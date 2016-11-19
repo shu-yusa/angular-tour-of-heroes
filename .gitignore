@@ -9,7 +9,8 @@ e2e/**/*.js
 e2e/**/*.js.map
 _test-output
 _temp
-
+*~
+*.swp
 !karma*.js
 !protractor*.js
 !systemjs.config.js
